@@ -1,2 +1,0 @@
-prediksi cuaca menggunakan metode case based reasoning
-
